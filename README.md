@@ -8,7 +8,7 @@ Welcome to my GitHub portfolio! I'm a **Cybersecurity Specialist** with hands-on
 
 - <b>Penetration Testing Lab</b>
   - [Simulated Penetration Test on a Virtual Network](#)  
-  - Tools: Kali Linux, Metasploit, Nessus, Wireshark
+  - Tools: Kali Linux, Metasploit, Nessus, Wireshark  
   - Skills Demonstrated: Vulnerability scanning, exploitation, and mitigation strategies
 
 - <b>Incident Response Simulation</b>
@@ -30,6 +30,17 @@ Welcome to my GitHub portfolio! I'm a **Cybersecurity Specialist** with hands-on
   - [Detect Unauthorized Changes in Critical Files](#)  
   - Tools: PowerShell  
   - Skills Demonstrated: Automating file monitoring and generating incident alerts
+
+---
+
+<h2>🎓 Certifications:</h2>
+
+- **CompTIA CASP+ (Advanced Security Practitioner)**
+- **CompTIA Security+**
+- **CompTIA PenTest+**
+- **(ISC)² Certified Cybersecurity Technician**
+- **Amazon Web Services (AWS) Certified Cloud Practitioner**
+- **Google IT Support Professional**
 
 ---
 
