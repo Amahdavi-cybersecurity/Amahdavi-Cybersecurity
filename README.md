@@ -6,10 +6,10 @@ Welcome to my GitHub portfolio! I'm a **Cybersecurity Specialist** with hands-on
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Penetration Testing Lab</b>
-  - [Simulated Penetration Test on a Virtual Network](#)  
-  - Tools: Kali Linux, Metasploit, Nessus, Wireshark  
-  - Skills Demonstrated: Vulnerability scanning, exploitation, and mitigation strategies
+- <b>Attacker Tools Analysis</b>
+  - [Wi-Fi Security Testing and Cracking WPA2 Passwords](https://github.com/yourusername/attacker-tools-analysis)  
+  - Tools: Aircrack-ng, Hydra, Wireshark  
+  - Skills Demonstrated: Wi-Fi network analysis, handshake capturing, password cracking, deauthentication attacks, and penetration testing techniques.  
 
 - <b>Incident Response Simulation</b>
   - [Malware Attack Simulation and Response](#)  
