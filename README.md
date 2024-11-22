@@ -11,10 +11,12 @@ Welcome to my GitHub portfolio! I'm a **Cybersecurity Specialist** with hands-on
   - Tools: Aircrack-ng, Hydra, Wireshark  
   - Skills Demonstrated: Wi-Fi network analysis, handshake capturing, password cracking, deauthentication attacks, and penetration testing techniques.  
 
-- <b>Incident Response Simulation</b>
-  - [Malware Attack Simulation and Response](#)  
-  - Tools: Splunk, Wireshark  
-  - Skills Demonstrated: Threat detection, containment, and reporting
+- <b>Marriott-Starwood Data Breach Analysis and Recommendations</b>
+ 
+  - Tools: Research and analysis tools, including resources like Splunk and industry reports.
+  - Skills Demonstrated: Data breach analysis, strategic recommendations, and policy development.
+  - Description: Comprehensive analysis of the Marriott-Starwood data breach, highlighting vulnerabilities, court findings, and detailed cybersecurity recommendations for prevention and response strategies.
+  
 
 - <b>Cloud Security</b>
   - [Securing AWS Environments with IAM Policies](#)  
