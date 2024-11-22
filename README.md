@@ -51,6 +51,14 @@ Welcome to my GitHub portfolio! I'm a **Cybersecurity Specialist** with hands-on
   
 - **Google IT Support Professional** https://www.coursera.org/account/accomplishments/professional-cert/8PLYZU3A56Z5
 
+- **Cybersecurity Analyst Job Simulation Certificate** https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/gmf3ypEXBj2wvfQWC_Tata%20Consultancy%20Services%20_DK8C5RL6tKiATa2HD_1706378771001_completion_certificate.pdf
+
+- **Cybersecurity Analyst Job Simulation Certificate** https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_DK8C5RL6tKiATa2HD_1706378013469_completion_certificate.pdf
+
+- **Cybersecurity Job Simulation Certificate** https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ/Hf4QMESoFeQwXPsiH_ANZ%20Australia_DK8C5RL6tKiATa2HD_1706377693389_completion_certificate.pdf
+
+-** DoD Cyber Sentinel Challenge - May 2024 Participant** https://www.credential.net/907a5dca-3334-4d27-b303-6152ae4b857c
+
 
 
 <h2>📺 Popular Resources:</h2>
