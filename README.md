@@ -9,7 +9,8 @@ Welcome to my GitHub portfolio! I'm a **Cybersecurity Specialist** with hands-on
 - <b>Attacker Tools Analysis</b>
   https://github.com/Amahdavi-cybersecurity/attacker-tools-analysis.git
   - Tools: Aircrack-ng, Hydra, Wireshark  
-  - Skills Demonstrated: Wi-Fi network analysis, handshake capturing, password cracking, deauthentication attacks, and penetration testing techniques.  
+  - Skills Demonstrated: Wi-Fi network analysis, handshake capturing, password cracking, deauthentication attacks, and penetration testing techniques.
+  - Description: This project explores the functionality of attacker tools like Aircrack-ng and Hydra in a controlled environment, focusing on Wi-Fi network security. It includes step-by-step instructions for installing, configuring, and using these tools to demonstrate network vulnerabilities, capture WPA handshakes, and test password cracking techniques. The project emphasizes the ethical use of penetration testing to identify and address potential weaknesses in wireless network security.
 
 - <b>Marriott-Starwood Data Breach Analysis and Recommendations</b> https://github.com/Amahdavi-cybersecurity/Data-Breach-Analysis-Report.git
  
