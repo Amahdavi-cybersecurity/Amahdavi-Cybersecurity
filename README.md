@@ -18,11 +18,12 @@ Welcome to my GitHub portfolio! I'm a **Cybersecurity Specialist** with hands-on
   - Description: Comprehensive analysis of the Marriott-Starwood data breach, highlighting vulnerabilities, court findings, and detailed cybersecurity recommendations for prevention and response strategies.
   
 
-- <b>Cloud Security</b>
-  - [Securing AWS Environments with IAM Policies](#)  
-  - Tools: AWS IAM, Security Groups, CloudTrail  
-  - Skills Demonstrated: Implementing access control and monitoring for compliance
+- <b>RFID Wristbands Security Analysis</b> RFID Wristbands Security Analysis
 
+  - Tools: Research into RFID systems, privacy frameworks, and security protocols.
+  - Skills Demonstrated: Risk analysis, compliance assessment, and policy recommendations.  
+  - Description: Comprehensive analysis of the security and privacy implications of RFID wristbands in children's resort activities. Highlights include their benefits, potential risks, and best practices for secure implementation, focusing on compliance with COPPA, PCI DSS, and GDPR.
+     
 - <b>Python Automation</b>
   - [Log Analysis Automation for Threat Detection](#)  
   - Tools: Python  
