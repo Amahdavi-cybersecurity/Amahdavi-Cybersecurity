@@ -44,12 +44,13 @@ Welcome to my GitHub portfolio! I'm a **Cybersecurity Specialist** with hands-on
 - **CompTIA Security+** https://www.credly.com/badges/ccc5942a-db27-4c4c-98b9-a8702e1a31bf/linked_in_profile
   
 - **CompTIA PenTest+** https://www.credly.com/badges/8c7aa33b-d2f0-4419-a227-19f753c623ad/public_url
-- 
+  
 - **(ISC)² Certified Cybersecurity Technician** https://www.credly.com/badges/7df79527-c821-4b5e-845c-c26ddcf975a1/linked_in_profile
   
 - **Amazon Web Services (AWS) Certified Cloud Practitioner** https://www.credly.com/badges/ce3481d8-ab72-4f67-9629-bd3cf32b2f57/linked_in_profile
   
 - **Google IT Support Professional** https://www.coursera.org/account/accomplishments/professional-cert/8PLYZU3A56Z5
+
 
 
 <h2>📺 Popular Resources:</h2>
