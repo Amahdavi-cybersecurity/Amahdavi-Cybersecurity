@@ -8,22 +8,22 @@ Welcome to my GitHub portfolio! I'm a **Cybersecurity Specialist** with hands-on
 
 - <b>Attacker Tools Analysis</b>
   https://github.com/Amahdavi-cybersecurity/attacker-tools-analysis.git
-  - Tools: Aircrack-ng, Hydra, Wireshark  
-  - Skills Demonstrated: Wi-Fi network analysis, handshake capturing, password cracking, deauthentication attacks, and penetration testing techniques.
-  - Description: This project explores the functionality of attacker tools like Aircrack-ng and Hydra in a controlled environment, focusing on Wi-Fi network security. It includes step-by-step instructions for installing, configuring, and using these tools to demonstrate network vulnerabilities, capture WPA handshakes, and test password cracking techniques. The project emphasizes the ethical use of penetration testing to identify and address potential weaknesses in wireless network security.
+  - **Tools**: Aircrack-ng, Hydra, Wireshark  
+  - **Skills Demonstrated**: Wi-Fi network analysis, handshake capturing, password cracking, deauthentication attacks, and penetration testing techniques.
+  - **Description**: This project explores the functionality of attacker tools like Aircrack-ng and Hydra in a controlled environment, focusing on Wi-Fi network security. It includes step-by-step instructions for installing, configuring, and using these tools to demonstrate network vulnerabilities, capture WPA handshakes, and test password cracking techniques. The project emphasizes the ethical use of penetration testing to identify and address potential weaknesses in wireless network security.
 
 - <b>Marriott-Starwood Data Breach Analysis and Recommendations</b> https://github.com/Amahdavi-cybersecurity/Data-Breach-Analysis-Report.git
  
-  - Tools: Research and analysis tools, including resources like Splunk and industry reports.
-  - Skills Demonstrated: Data breach analysis, strategic recommendations, and policy development.
-  - Description: Comprehensive analysis of the Marriott-Starwood data breach, highlighting vulnerabilities, court findings, and detailed cybersecurity recommendations for prevention and response strategies.
+  - **Tools**: Research and analysis tools, including resources like Splunk and industry reports.
+  - **Skills Demonstrated**: Data breach analysis, strategic recommendations, and policy development.
+  - **Description**: Comprehensive analysis of the Marriott-Starwood data breach, highlighting vulnerabilities, court findings, and detailed cybersecurity recommendations for prevention and response strategies.
   
 
 - <b>RFID Wristbands Security Analysis</b> [RFID Wristbands Security Analysis](https://github.com/Amahdavi-cybersecurity/RFID-Wristbands-Security-Analysis.git)
 
-  - Tools: Research into RFID systems, privacy frameworks, and security protocols.
-  - Skills Demonstrated: Risk analysis, compliance assessment, and policy recommendations.  
-  - Description: Comprehensive analysis of the security and privacy implications of RFID wristbands in children's resort activities. Highlights include their benefits, potential risks, and best practices for secure implementation, focusing on compliance with COPPA, PCI DSS, and GDPR.
+  - **Tools**: Research into RFID systems, privacy frameworks, and security protocols.
+  - **Skills Demonstrated**: Risk analysis, compliance assessment, and policy recommendations.  
+  - **Description**: Comprehensive analysis of the security and privacy implications of RFID wristbands in children's resort activities. Highlights include their benefits, potential risks, and best practices for secure implementation, focusing on compliance with COPPA, PCI DSS, and GDPR.
      
 - <b>Python Automation</b>
   - [Log Analysis Automation for Threat Detection](#)  
