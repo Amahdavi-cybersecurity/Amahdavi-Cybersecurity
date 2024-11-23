@@ -65,7 +65,6 @@ Welcome to my GitHub portfolio! I'm a **Cybersecurity Specialist** with hands-on
 
 - [My LinkedIn Profile](https://linkedin.com/in/aryanamahdavi)
 - [TryHackMe Profile (Badges and Accomplishments)](#)  
-- [Write-ups of Cybersecurity Challenges](#)  
 
 ---
 
