@@ -8,34 +8,41 @@ Welcome to my GitHub portfolio! I'm a **Cybersecurity Specialist** with hands-on
 
 - <b>Attacker Tools Analysis</b>
   https://github.com/Amahdavi-cybersecurity/attacker-tools-analysis.git
-  - **Tools**: Aircrack-ng, Hydra, Wireshark  
+  - **Tools**: Aircrack-ng, Hydra, Wireshark
+    
   - **Skills Demonstrated**: Wi-Fi network analysis, handshake capturing, password cracking, deauthentication attacks, and penetration testing techniques.
+    
   - **Description**: This project explores the functionality of attacker tools like Aircrack-ng and Hydra in a controlled environment, focusing on Wi-Fi network security. It includes step-by-step instructions for installing, configuring, and using these tools to demonstrate network vulnerabilities, capture WPA handshakes, and test password cracking techniques. The project emphasizes the ethical use of penetration testing to identify and address potential weaknesses in wireless network security.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - <b>Marriott-Starwood Data Breach Analysis and Recommendations</b> https://github.com/Amahdavi-cybersecurity/Data-Breach-Analysis-Report.git
  
   - **Tools**: Research and analysis tools, including resources like Splunk and industry reports.
+    
   - **Skills Demonstrated**: Data breach analysis, strategic recommendations, and policy development.
+    
   - **Description**: Comprehensive analysis of the Marriott-Starwood data breach, highlighting vulnerabilities, court findings, and detailed cybersecurity recommendations for prevention and response strategies.
   
 ---
 - <b>RFID Wristbands Security Analysis</b> [RFID Wristbands Security Analysis](https://github.com/Amahdavi-cybersecurity/RFID-Wristbands-Security-Analysis.git)
 
   - **Tools**: Research into RFID systems, privacy frameworks, and security protocols.
-  - **Skills Demonstrated**: Risk analysis, compliance assessment, and policy recommendations.  
+    
+  - **Skills Demonstrated**: Risk analysis, compliance assessment, and policy recommendations.
+    
   - **Description**: Comprehensive analysis of the security and privacy implications of RFID wristbands in children's resort activities. Highlights include their benefits, potential risks, and best practices for secure implementation, focusing on compliance with COPPA, PCI DSS, and GDPR.
 
  ---
 - **Active Directory and Azure AD Connect** https://github.com/Amahdavi-cybersecurity/active-directory-azure-ad-connect.git
 
-   - **Tools**: Windows Server 2022, Microsoft Azure AD Connect, PowerShell, Azure Portal  
+   - **Tools**: Windows Server 2022, Microsoft Azure AD Connect, PowerShell, Azure Portal
+     
    - **Skills Demonstrated**: Configured Active Directory on Windows Server 2022, Renamed and joined the server to a domain, Automated user account creation using PowerShell scripts, Synchronized on-premises Active Directory with Azure Active Directory.  
       
    - **Description**: Configured a hybrid identity environment to unify user access across Microsoft 365 and on-premises resources. This project demonstrates the process of creating an Active Directory forest, configuring Azure AD Connect for identity synchronization,
 
 ------
-- <b>Linux Installation and Command-Line Training Guide</b>
+- <b>**Linux Installation and Command-Line Training Guide<**/b> https://github.com/Amahdavi-cybersecurity/linux-training-guide.git
 
   - **Tools**: Ubuntu 24.04 LTS, VirtualBox, Linux Terminal
     
@@ -43,8 +50,7 @@ Welcome to my GitHub portfolio! I'm a **Cybersecurity Specialist** with hands-on
 Managed files and directories with touch, mkdir, cp, mv, and rm commands, Process management using ps, grep, and kill,
  Text editing and content display using nano and cat.
 
-  - **Description**
-This project is a comprehensive guide designed for Faster Computing employees to install and operate Linux systems. It covers steps for setting up Ubuntu on VirtualBox, creating a user account, and running various command-line operations. The guide demonstrates how to navigate file systems, manage processes, and edit files, ensuring operational efficiency and technical skill development
+  -  **Description**: This project is a comprehensive guide designed for Faster Computing employees to install and operate Linux systems. It covers steps for setting up Ubuntu on VirtualBox, creating a user account, and running various command-line operations. The guide demonstrates how to navigate file systems, manage processes, and edit files, ensuring operational efficiency and technical skill development.
 
 ---
 
