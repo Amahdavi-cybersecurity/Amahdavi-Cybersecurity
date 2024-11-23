@@ -25,15 +25,23 @@ Welcome to my GitHub portfolio! I'm a **Cybersecurity Specialist** with hands-on
   - **Skills Demonstrated**: Risk analysis, compliance assessment, and policy recommendations.  
   - **Description**: Comprehensive analysis of the security and privacy implications of RFID wristbands in children's resort activities. Highlights include their benefits, potential risks, and best practices for secure implementation, focusing on compliance with COPPA, PCI DSS, and GDPR.
      
-- <b>Python Automation</b>
-  - [Log Analysis Automation for Threat Detection](#)  
-  - Tools: Python  
-  - Skills Demonstrated: Automating log parsing and generating alerts
+- **Active Directory and Azure AD Connect**
+   - Hybrid Identity Configuration and Management
+   - **Tools**: Windows Server 2022, Microsoft Azure AD Connect, PowerShell, Azure Portal  
+   - **Skills Demonstrated**:  
+     - Configured Active Directory on Windows Server 2022.  
+     - Renamed and joined the server to a domain.  
+     - Automated user account creation using PowerShell scripts.  
+     - Synchronized on-premises Active Directory with Azure Active Directory.  
+      
+   - **Description**: Configured a hybrid identity environment to unify user access across Microsoft 365 and on-premises resources. This project demonstrates the process of creating an Active Directory forest, configuring Azure AD Connect for identity synchronization,
 
 - <b>File Integrity Monitor (PowerShell)</b>
   - [Detect Unauthorized Changes in Critical Files](#)  
   - Tools: PowerShell  
   - Skills Demonstrated: Automating file monitoring and generating incident alerts
+ 
+  - 
 
 ---
 
