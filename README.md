@@ -28,19 +28,23 @@ Welcome to my GitHub portfolio! I'm a **Cybersecurity Specialist** with hands-on
 
  ---
 - **Active Directory and Azure AD Connect** https://github.com/Amahdavi-cybersecurity/active-directory-azure-ad-connect.git
-   - Hybrid Identity Configuration and Management
+
    - **Tools**: Windows Server 2022, Microsoft Azure AD Connect, PowerShell, Azure Portal  
    - **Skills Demonstrated**: Configured Active Directory on Windows Server 2022, Renamed and joined the server to a domain, Automated user account creation using PowerShell scripts, Synchronized on-premises Active Directory with Azure Active Directory.  
       
    - **Description**: Configured a hybrid identity environment to unify user access across Microsoft 365 and on-premises resources. This project demonstrates the process of creating an Active Directory forest, configuring Azure AD Connect for identity synchronization,
 
 ------
-- <b>File Integrity Monitor (PowerShell)</b>
-  - [Detect Unauthorized Changes in Critical Files](#)  
-  - Tools: PowerShell  
-  - Skills Demonstrated: Automating file monitoring and generating incident alerts
- 
-  - 
+- <b>Linux Installation and Command-Line Training Guide</b>
+
+  - **Tools**: Ubuntu 24.04 LTS, VirtualBox, Linux Terminal
+    
+  -  **Skills Demonstrated**: Installed and configured Linux using VirtualBox, Performed essential Linux command-line operations, 
+Managed files and directories with touch, mkdir, cp, mv, and rm commands, Process management using ps, grep, and kill,
+ Text editing and content display using nano and cat.
+
+  - **Description**
+This project is a comprehensive guide designed for Faster Computing employees to install and operate Linux systems. It covers steps for setting up Ubuntu on VirtualBox, creating a user account, and running various command-line operations. The guide demonstrates how to navigate file systems, manage processes, and edit files, ensuring operational efficiency and technical skill development
 
 ---
 
