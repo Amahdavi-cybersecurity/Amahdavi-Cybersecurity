@@ -25,7 +25,7 @@ Welcome to my GitHub portfolio! I'm a **Cybersecurity Specialist** with hands-on
   - **Skills Demonstrated**: Risk analysis, compliance assessment, and policy recommendations.  
   - **Description**: Comprehensive analysis of the security and privacy implications of RFID wristbands in children's resort activities. Highlights include their benefits, potential risks, and best practices for secure implementation, focusing on compliance with COPPA, PCI DSS, and GDPR.
      
-- **Active Directory and Azure AD Connect**
+- **Active Directory and Azure AD Connect** https://github.com/Amahdavi-cybersecurity/active-directory-azure-ad-connect.git
    - Hybrid Identity Configuration and Management
    - **Tools**: Windows Server 2022, Microsoft Azure AD Connect, PowerShell, Azure Portal  
    - **Skills Demonstrated**:  
