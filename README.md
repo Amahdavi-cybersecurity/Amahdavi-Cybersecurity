@@ -1,6 +1,6 @@
 <h1>Hi, I'm Aryana! 👋</h1>
 
-Welcome to my GitHub portfolio! I'm a **Cybersecurity Specialist** with hands-on experience in penetration testing, risk management, and secure network design. Passionate about safeguarding systems and solving complex security challenges.
+I’m driven by a passion for cybersecurity and solving complex security challenges. With hands-on experience and certifications like CompTIA Advanced Security Practitioner and AWS Cloud Practitioner, I aim to protect organizations by combining technical skills, critical thinking, and a commitment to ethical practices.
 
 ---
 
