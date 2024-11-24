@@ -47,7 +47,7 @@ I’m driven by a passion for cybersecurity and solving complex security challen
    - **Description**: Configured a hybrid identity environment to unify user access across Microsoft 365 and on-premises resources. This project demonstrates the process of creating an Active Directory forest, configuring Azure AD Connect for identity synchronization,
 
 ------
-- <b>**Linux Installation and Command-Line Training Guide<**/b> https://github.com/Amahdavi-cybersecurity/linux-training-guide.git
+- **Linux Installation and Command-Line Training Guide** https://github.com/Amahdavi-cybersecurity/linux-training-guide.git
 
   - **Tools**: Ubuntu 24.04 LTS, VirtualBox, Linux Terminal
     
