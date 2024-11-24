@@ -5,7 +5,7 @@ I’m driven by a passion for cybersecurity and solving complex security challen
 ---
 
 <h2>📄 My Resume</h2>
-[View My Resume](https://your-resume-link.com)
+[View My Resume] (https://github.com/user-attachments/files/17894099/Aryana.M_Resume.pdf)
 
 -------
 
