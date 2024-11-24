@@ -4,6 +4,11 @@ I’m driven by a passion for cybersecurity and solving complex security challen
 
 ---
 
+<h2>📄 My Resume</h2>
+[View My Resume](https://your-resume-link.com)
+
+-------
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Attacker Tools Analysis</b>
