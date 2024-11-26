@@ -65,7 +65,7 @@ Managed files and directories with touch, mkdir, cp, mv, and rm commands, Proces
 ---
 
 ## Demonstration of a DoS Attack 
-https://github.com/Amahdavi-cybersecurity/demonstration-of-a-dos-attack.git
+https://github.com/Amahdavi-cybersecurity/Demonstration-of-a-DoS-Attack.git
 
 - **Tools**: Kali Linux, Metasploit Framework, Windows 11 (Host)
 
