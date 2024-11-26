@@ -4,14 +4,15 @@ I’m driven by a passion for cybersecurity and solving complex security challen
 
 ---
 
-<h2>📄 My Resume</h2>
-[View My Resume](https://github.com/user-attachments/files/17894099/Aryana.M_Resume.pdf)
+<h2>📄 My Resume</h2>[View My Resume]
+
+(https://github.com/user-attachments/files/17894099/Aryana.M_Resume.pdf)
 
 -------
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Attacker Tools Analysis</b>
+## <b>Attacker Tools Analysis</b>
   https://github.com/Amahdavi-cybersecurity/attacker-tools-analysis.git
   - **Tools**: Aircrack-ng, Hydra, Wireshark
     
@@ -20,7 +21,8 @@ I’m driven by a passion for cybersecurity and solving complex security challen
   - **Description**: This project explores the functionality of attacker tools like Aircrack-ng and Hydra in a controlled environment, focusing on Wi-Fi network security. It includes step-by-step instructions for installing, configuring, and using these tools to demonstrate network vulnerabilities, capture WPA handshakes, and test password cracking techniques. The project emphasizes the ethical use of penetration testing to identify and address potential weaknesses in wireless network security.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- <b>Marriott-Starwood Data Breach Analysis and Recommendations</b> https://github.com/Amahdavi-cybersecurity/Data-Breach-Analysis-Report.git
+## <b>Marriott-Starwood Data Breach Analysis and Recommendations</b> 
+https://github.com/Amahdavi-cybersecurity/Data-Breach-Analysis-Report.git
  
   - **Tools**: Research and analysis tools, including resources like Splunk and industry reports.
     
@@ -29,7 +31,8 @@ I’m driven by a passion for cybersecurity and solving complex security challen
   - **Description**: Comprehensive analysis of the Marriott-Starwood data breach, highlighting vulnerabilities, court findings, and detailed cybersecurity recommendations for prevention and response strategies.
   
 ---
-- <b>RFID Wristbands Security Analysis</b> [RFID Wristbands Security Analysis](https://github.com/Amahdavi-cybersecurity/RFID-Wristbands-Security-Analysis.git)
+## <b>RFID Wristbands Security Analysis</b> [RFID Wristbands Security Analysis]
+(https://github.com/Amahdavi-cybersecurity/RFID-Wristbands-Security-Analysis.git)
 
   - **Tools**: Research into RFID systems, privacy frameworks, and security protocols.
     
@@ -38,7 +41,8 @@ I’m driven by a passion for cybersecurity and solving complex security challen
   - **Description**: Comprehensive analysis of the security and privacy implications of RFID wristbands in children's resort activities. Highlights include their benefits, potential risks, and best practices for secure implementation, focusing on compliance with COPPA, PCI DSS, and GDPR.
 
  ---
-- **Active Directory and Azure AD Connect** https://github.com/Amahdavi-cybersecurity/active-directory-azure-ad-connect.git
+## Active Directory and Azure AD Connect 
+https://github.com/Amahdavi-cybersecurity/active-directory-azure-ad-connect.git
 
    - **Tools**: Windows Server 2022, Microsoft Azure AD Connect, PowerShell, Azure Portal
      
@@ -47,7 +51,8 @@ I’m driven by a passion for cybersecurity and solving complex security challen
    - **Description**: Configured a hybrid identity environment to unify user access across Microsoft 365 and on-premises resources. This project demonstrates the process of creating an Active Directory forest, configuring Azure AD Connect for identity synchronization,
 
 ------
-- **Linux Installation and Command-Line Training Guide** https://github.com/Amahdavi-cybersecurity/linux-training-guide.git
+## Linux Installation and Command-Line Training Guide 
+https://github.com/Amahdavi-cybersecurity/linux-training-guide.git
 
   - **Tools**: Ubuntu 24.04 LTS, VirtualBox, Linux Terminal
     
@@ -58,6 +63,19 @@ Managed files and directories with touch, mkdir, cp, mv, and rm commands, Proces
   -  **Description**: This project is a comprehensive guide designed for Faster Computing employees to install and operate Linux systems. It covers steps for setting up Ubuntu on VirtualBox, creating a user account, and running various command-line operations. The guide demonstrates how to navigate file systems, manage processes, and edit files, ensuring operational efficiency and technical skill development.
 
 ---
+
+## Demonstration of a DoS Attack 
+https://github.com/Amahdavi-cybersecurity/demonstration-of-a-dos-attack.git
+
+- **Tools**: Kali Linux, Metasploit Framework, Windows 11 (Host)
+
+- **Skills Demonstrated:**
+Simulated a Denial of Service (DoS) attack using the Metasploit Framework.
+Configured attack parameters, including target IP and port settings.
+Used Kali Linux tools to update system packages and execute exploits.Analyzed the impact of a DoS attack on target system resources in a controlled environment.
+
+- **Description**:
+This project demonstrates a simulated Denial of Service (DoS) attack to showcase the vulnerabilities in networked systems when subjected to high traffic volumes. Using Kali Linux and the Metasploit Framework, the attack floods a target with SYN packets, overwhelming its resources and rendering it unresponsive. The project illustrates the steps for preparing the attack environment, configuring the necessary modules, and analyzing the results. It emphasizes ethical hacking principles and highlights the importance of robust network defenses to prevent such attacks.
 
 <h2>🎓 Certifications:</h2>
 
