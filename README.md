@@ -1,6 +1,6 @@
-<h1>Hi, I'm Aryana! 👋</h1>
+## <h1>Hi, I'm Aryana! 👋</h1>
 
-I’m driven by a passion for cybersecurity and solving complex security challenges. With hands-on experience and certifications like CompTIA Advanced Security Practitioner and AWS Cloud Practitioner, I aim to protect organizations by combining technical skills, critical thinking, and a commitment to ethical practices.
+**I’m driven by a passion for cybersecurity and solving complex security challenges. With hands-on experience and certifications like CompTIA Advanced Security Practitioner and AWS Cloud Practitioner, I aim to protect organizations by combining technical skills, critical thinking, and a commitment to ethical practices.**
 
 ---
 
