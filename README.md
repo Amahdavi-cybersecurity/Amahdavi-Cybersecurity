@@ -10,7 +10,16 @@
 
 -------
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+# <h2>👨‍💻 Cybersecurity Projects:</h2>
+------
+
+## Cybersecurity Threat Landscape: APT28 Analysis and Defense Strategies
+
+- **Tools:** Research and analysis tools, including the MITRE ATT&CK framework, machine learning techniques, and data analytics platforms.
+
+- **Skills Demonstrated:** Threat landscape analysis, advanced persistent threat (APT) profiling, defense-in-depth strategies, and ethical cybersecurity considerations.
+
+- **Description:** Comprehensive research on the cybersecurity threat landscape with a focus on APT28 (Fancy Bear), a Russian state-sponsored threat actor. This project provides detailed analysis of their tactics, techniques, and procedures (TTPs), alongside advanced defense strategies leveraging machine learning, data analytics, and layered security measures to counter evolving threats.
 
 ## <b>Attacker Tools Analysis</b>
   https://github.com/Amahdavi-cybersecurity/attacker-tools-analysis.git
