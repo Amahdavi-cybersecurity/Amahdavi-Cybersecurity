@@ -77,6 +77,16 @@ Used Kali Linux tools to update system packages and execute exploits.Analyzed th
 - **Description**:
 This project demonstrates a simulated Denial of Service (DoS) attack to showcase the vulnerabilities in networked systems when subjected to high traffic volumes. Using Kali Linux and the Metasploit Framework, the attack floods a target with SYN packets, overwhelming its resources and rendering it unresponsive. The project illustrates the steps for preparing the attack environment, configuring the necessary modules, and analyzing the results. It emphasizes ethical hacking principles and highlights the importance of robust network defenses to prevent such attacks.
 
+--------
+
+## Windows 10 Installation Proof of Concept
+
+- **Tools**: VirtualBox, Windows PowerShell, Local Group Policy Editor, Windows Defender Firewall
+
+- **Skills Demonstrated:** Conducted a proof-of-concept for Windows 10 installation, configured local accounts and groups, customized group policies and folder permissions, and configured firewall rules for network security.
+
+- **Description:** This project demonstrates the installation and configuration of Windows 10 for Tetra Shillings Accounting LLC. It includes a comprehensive step-by-step guide using VirtualBox to simulate the process, ensuring compatibility and addressing risks during deployment. Key features include local account and group creation, advanced folder permission settings, group policy configurations, and inbound/outbound firewall rule enforcement.
+
 <h2>🎓 Certifications:</h2>
 
 - **CompTIA CASP+ (Advanced Security Practitioner)** https://www.credly.com/badges/87e37614-1d8a-4b1e-a755-9846012fa441/public_url
