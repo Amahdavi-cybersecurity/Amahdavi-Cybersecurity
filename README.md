@@ -87,6 +87,26 @@ This project demonstrates a simulated Denial of Service (DoS) attack to showcase
 
 - **Description:** This project demonstrates the installation and configuration of Windows 10 for Tetra Shillings Accounting LLC. It includes a comprehensive step-by-step guide using VirtualBox to simulate the process, ensuring compatibility and addressing risks during deployment. Key features include local account and group creation, advanced folder permission settings, group policy configurations, and inbound/outbound firewall rule enforcement.
 
+- ----
+
+ ## Kali Linux Installation 
+
+- **Tools Used** Operating System: Windows 11
+Virtual Environment: Oracle VirtualBox
+ISO File: Kali Linux Installer (64-bit)
+
+- **Skills Demonstrated:**
+Setting up virtual environments.
+Installing and configuring operating systems in VirtualBox.
+Allocating virtual resources effectively.
+ISO file mounting and boot setup for a virtual machine.
+
+- **Description:** This project demonstrates the installation and configuration of Kali Linux, a popular penetration testing and ethical hacking operating system, on a virtual machine using Oracle VirtualBox. The process highlights critical steps such as creating a new virtual environment, allocating system resources, mounting the ISO file, and completing the operating system installation. It serves as a practical guide for anyone interested in setting up a controlled environment for cybersecurity research and testing.
+
+- ---------
+
+
+
 <h2>🎓 Certifications:</h2>
 
 - **CompTIA CASP+ (Advanced Security Practitioner)** https://www.credly.com/badges/87e37614-1d8a-4b1e-a755-9846012fa441/public_url
