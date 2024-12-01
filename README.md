@@ -12,7 +12,17 @@
 
 # <h2>👨‍💻 Cybersecurity Projects:</h2>
 ------
+## Security Information and Event Management (SIEM) Setup Guide
+[SIEM-Setup-Guide](https://github.com/Amahdavi-cybersecurity/SIEM-Setup-Guide)
 
+- **Tools Used**: Elastic Stack (Elasticsearch, Kibana, Beats), VirtualBox, Ubuntu, Windows 10
+  
+- **Skills Demonstrated**: SIEM implementation, log collection, dashboard creation, troubleshooting service configuration issues.
+  
+- **Description**: A step-by-step guide to setting up a free SIEM tool using Elasticsearch, Kibana, and Winlogbeat. This project includes configuring the Elastic Stack, setting up log forwarding, and creating dashboards to monitor and analyze security events in real-time.
+
+
+---
 ## Cybersecurity Threat Landscape: APT28 Analysis and Defense Strategies
 https://github.com/Amahdavi-cybersecurity/Cybersecurity-Threat-Landscape.git
 
