@@ -13,7 +13,7 @@
 # <h2>👨‍💻 Cybersecurity Projects:</h2>
 ------
 ## Security Information and Event Management (SIEM) Setup Guide
-[SIEM-Setup-Guide](https://github.com/Amahdavi-cybersecurity/SIEM-Setup-Guide)
+https://github.com/Amahdavi-cybersecurity/SIEM-Setup-Guide.git
 
 - **Tools Used**: Elastic Stack (Elasticsearch, Kibana, Beats), VirtualBox, Ubuntu, Windows 10
   
