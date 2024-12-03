@@ -5,7 +5,7 @@
 
 ---
 ## View my Resume
-[Resume](https://github.com/user-attachments/files/17994598/Aryana.M_Resume.2024.pdf)
+[📄 Aryana M. Resume (2024)](https://github.com/user-attachments/files/17994598/Aryana.M_Resume.2024.pdf)
 
 
 # <h2>👨‍💻 Cybersecurity Projects:</h2>
