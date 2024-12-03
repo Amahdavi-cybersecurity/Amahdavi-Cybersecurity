@@ -156,7 +156,8 @@ ISO file mounting and boot setup for a virtual machine.
 <h2>📺 Popular Resources:</h2>
 
 - [My LinkedIn Profile](https://linkedin.com/in/aryanamahdavi)
-- [TryHackMe Profile (Badges and Accomplishments)](#)  
+- [TryHackMe Profile](https://github.com/Amahdavi-cybersecurity/TryHackMe.git)
+  
 
 ---
 
