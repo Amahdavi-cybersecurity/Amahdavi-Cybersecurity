@@ -1,14 +1,12 @@
+
 ## <h1>Hi, I'm Aryana! 👋</h1>
 
 **I’m driven by a passion for cybersecurity and solving complex security challenges. With hands-on experience and certifications like CompTIA Advanced Security Practitioner and AWS Cloud Practitioner, I aim to protect organizations by combining technical skills, critical thinking, and a commitment to ethical practices.**
 
 ---
+## View my Resume
+[Resume](https://github.com/user-attachments/files/17994598/Aryana.M_Resume.2024.pdf)
 
-<h2>📄 My Resume</h2>[View My Resume]
-
-(https://github.com/user-attachments/files/17894099/Aryana.M_Resume.pdf)
-
--------
 
 # <h2>👨‍💻 Cybersecurity Projects:</h2>
 ------
