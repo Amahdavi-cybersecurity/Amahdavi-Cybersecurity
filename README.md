@@ -49,7 +49,7 @@ https://github.com/Amahdavi-cybersecurity/Data-Breach-Analysis-Report.git
   - **Description**: Comprehensive analysis of the Marriott-Starwood data breach, highlighting vulnerabilities, court findings, and detailed cybersecurity recommendations for prevention and response strategies.
   
 ---
-## <b>RFID Wristbands Security Analysis</b> [RFID Wristbands Security Analysis]
+## <b>RFID Wristbands Security Analysis</b> 
 (https://github.com/Amahdavi-cybersecurity/RFID-Wristbands-Security-Analysis.git)
 
   - **Tools**: Research into RFID systems, privacy frameworks, and security protocols.
