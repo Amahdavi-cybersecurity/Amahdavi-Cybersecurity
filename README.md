@@ -1,19 +1,27 @@
 
-## <h1>Hi, I'm Aryana! 👋</h1>
+<h1 align="center">🌐 Welcome to Aryana's Cybersecurity Portfolio! 👨‍💻<h1>
 
-**I’m driven by a passion for cybersecurity and solving complex security challenges. With hands-on experience and certifications like CompTIA Advanced Security Practitioner and AWS Cloud Practitioner, I aim to protect organizations by combining technical skills, critical thinking, and a commitment to ethical practices.**
+
+## 👨‍🎓 Who Am I? 
+
+**Hi, I'm Aryana!**
+**I’m a passionate cybersecurity enthusiast dedicated to protecting digital ecosystems. With hands-on experience and certifications such as CompTIA Advanced Security Practitioner and AWS Cloud Practitioner, I specialize in identifying vulnerabilities, designing defenses, and analyzing evolving cyber threats.**
+
+**When I’m not diving deep into cybersecurity challenges, I enjoy contributing to projects, sharpening my skills, and staying updated on the latest industry trends. I thrive in roles that demand creativity, critical thinking, and a commitment to safeguarding information.**
+
 
 ---
 ## View my Resume
-[📄 Aryana M. Resume (2024)](https://github.com/user-attachments/files/17994598/Aryana.M_Resume.2024.pdf)
+[📄 Download My Resume](https://github.com/user-attachments/files/17994598/Aryana.M_Resume.2024.pdf)
 
 
-# <h2>👨‍💻 Cybersecurity Projects:</h2>
+# <h2>👨‍💻 Cybersecurity Projects:</h2> 
 ------
-## Security Information and Event Management (SIEM) Setup Guide     
+##    Security Information and Event Management (SIEM) Setup Guide     
 [View Project](https://github.com/Amahdavi-cybersecurity/SIEM-Setup-Guide.git)
 
-- **Tools Used**: Elastic Stack (Elasticsearch, Kibana, Beats), VirtualBox, Ubuntu, Windows 10
+
+ - **Tools Used**: Elastic Stack (Elasticsearch, Kibana, Beats), VirtualBox, Ubuntu, Windows 10
   
 - **Skills Demonstrated**: SIEM implementation, log collection, dashboard creation, troubleshooting service configuration issues.
   
