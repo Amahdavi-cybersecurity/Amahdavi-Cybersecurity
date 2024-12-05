@@ -108,8 +108,8 @@ https://github.com/Amahdavi-cybersecurity/Windows-10-Installation-Proof-of-Conce
 
 - ----
 
- ## Kali Linux Installation 
- https://github.com/Amahdavi-cybersecurity/Kali-Linux-Installation-.git
+ ## Kali Linux Installation      [View Project](https://github.com/Amahdavi-cybersecurity/Kali-Linux-Installation-.git)
+
 
 - **Tools Used** Operating System: Windows 11
 Virtual Environment: Oracle VirtualBox
