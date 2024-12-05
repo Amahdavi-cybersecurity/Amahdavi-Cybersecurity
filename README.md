@@ -123,25 +123,25 @@ ISO file mounting and boot setup for a virtual machine.
 
 <h2>🎓 Certifications:</h2>
 
-- **CompTIA CASP+ (Advanced Security Practitioner)** https://www.credly.com/badges/87e37614-1d8a-4b1e-a755-9846012fa441/public_url
+- [CompTIA CASP+ (Advanced Security Practitioner)](https://www.credly.com/badges/87e37614-1d8a-4b1e-a755-9846012fa441/public_url)
   
-- **CompTIA Security+** https://www.credly.com/badges/ccc5942a-db27-4c4c-98b9-a8702e1a31bf/linked_in_profile
+- [CompTIA Security+](https://www.credly.com/badges/ccc5942a-db27-4c4c-98b9-a8702e1a31bf/linked_in_profile)
   
-- **CompTIA PenTest+** https://www.credly.com/badges/8c7aa33b-d2f0-4419-a227-19f753c623ad/public_url
+- [CompTIA PenTest+](https://www.credly.com/badges/8c7aa33b-d2f0-4419-a227-19f753c623ad/public_url)
   
-- **(ISC)² Certified Cybersecurity Technician** https://www.credly.com/badges/7df79527-c821-4b5e-845c-c26ddcf975a1/linked_in_profile
+- [(ISC)² Certified in Cybersecurity](https://www.credly.com/badges/7df79527-c821-4b5e-845c-c26ddcf975a1/linked_in_profile)
   
-- **Amazon Web Services (AWS) Certified Cloud Practitioner** https://www.credly.com/badges/ce3481d8-ab72-4f67-9629-bd3cf32b2f57/linked_in_profile
+- [Amazon Web Services (AWS) Certified Cloud Practitioner](https://www.credly.com/badges/ce3481d8-ab72-4f67-9629-bd3cf32b2f57/linked_in_profile)
   
-- **Google IT Support Professional** https://www.coursera.org/account/accomplishments/professional-cert/8PLYZU3A56Z5
+- [Google IT Support Professional](https://www.coursera.org/account/accomplishments/professional-cert/8PLYZU3A56Z5)
 
-- **Cybersecurity Analyst Job Simulation Certificate** https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/gmf3ypEXBj2wvfQWC_Tata%20Consultancy%20Services%20_DK8C5RL6tKiATa2HD_1706378771001_completion_certificate.pdf
+- [Cybersecurity Analyst Job Simulation Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/gmf3ypEXBj2wvfQWC_Tata%20Consultancy%20Services%20_DK8C5RL6tKiATa2HD_1706378771001_completion_certificate.pdf)
 
-- **Cybersecurity Analyst Job Simulation Certificate** https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_DK8C5RL6tKiATa2HD_1706378013469_completion_certificate.pdf
+- [Cybersecurity Analyst Job Simulation Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_DK8C5RL6tKiATa2HD_1706378013469_completion_certificate.pdf)
 
-- **Cybersecurity Job Simulation Certificate** https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ/Hf4QMESoFeQwXPsiH_ANZ%20Australia_DK8C5RL6tKiATa2HD_1706377693389_completion_certificate.pdf
+- [Cybersecurity Job Simulation Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ANZ/Hf4QMESoFeQwXPsiH_ANZ%20Australia_DK8C5RL6tKiATa2HD_1706377693389_completion_certificate.pdf)
 
-- **DoD Cyber Sentinel Challenge** - May 2024 Participant** https://www.credential.net/907a5dca-3334-4d27-b303-6152ae4b857c
+- [DoD Cyber Sentinel ChallengeMay 2024 Participant](https://www.credential.net/907a5dca-3334-4d27-b303-6152ae4b857c)
 
 
 
