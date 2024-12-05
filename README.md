@@ -10,7 +10,8 @@
 
 # <h2>👨‍💻 Cybersecurity Projects:</h2>
 ------
-## Security Information and Event Management (SIEM) Setup Guide     [View Project](https://github.com/Amahdavi-cybersecurity/SIEM-Setup-Guide.git)
+## Security Information and Event Management (SIEM) Setup Guide     
+[View Project](https://github.com/Amahdavi-cybersecurity/SIEM-Setup-Guide.git)
 
 - **Tools Used**: Elastic Stack (Elasticsearch, Kibana, Beats), VirtualBox, Ubuntu, Windows 10
   
@@ -20,7 +21,8 @@
 
 
 ---
-## Cybersecurity Threat Landscape: APT28 Analysis and Defense Strategies         [View Project](https://github.com/Amahdavi-cybersecurity/Cybersecurity-Threat-Landscape.git)
+## Cybersecurity Threat Landscape: APT28 Analysis and Defense Strategies       
+[View Project](https://github.com/Amahdavi-cybersecurity/Cybersecurity-Threat-Landscape.git)
 
 - **Tools:** Research and analysis tools, including the MITRE ATT&CK framework, machine learning techniques, and data analytics platforms.
 
@@ -28,7 +30,8 @@
 
 - **Description:** Comprehensive research on the cybersecurity threat landscape with a focus on APT28 (Fancy Bear), a Russian state-sponsored threat actor. This project provides detailed analysis of their tactics, techniques, and procedures (TTPs), alongside advanced defense strategies leveraging machine learning, data analytics, and layered security measures to counter evolving threats.
 
-## <b>Attacker Tools Analysis</b>      [View Project](https://github.com/Amahdavi-cybersecurity/attacker-tools-analysis.git)
+## <b>Attacker Tools Analysis</b>     
+[View Project](https://github.com/Amahdavi-cybersecurity/attacker-tools-analysis.git)
   
   - **Tools**: Aircrack-ng, Hydra, Wireshark
     
@@ -37,7 +40,8 @@
   - **Description**: This project explores the functionality of attacker tools like Aircrack-ng and Hydra in a controlled environment, focusing on Wi-Fi network security. It includes step-by-step instructions for installing, configuring, and using these tools to demonstrate network vulnerabilities, capture WPA handshakes, and test password cracking techniques. The project emphasizes the ethical use of penetration testing to identify and address potential weaknesses in wireless network security.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## <b>Marriott-Starwood Data Breach Analysis and Recommendations</b>              [View Project](https://github.com/Amahdavi-cybersecurity/Data-Breach-Analysis-Report.git)
+## <b>Marriott-Starwood Data Breach Analysis and Recommendations</b>           
+[View Project](https://github.com/Amahdavi-cybersecurity/Data-Breach-Analysis-Report.git)
  
   - **Tools**: Research and analysis tools, including resources like Splunk and industry reports.
     
@@ -46,7 +50,8 @@
   - **Description**: Comprehensive analysis of the Marriott-Starwood data breach, highlighting vulnerabilities, court findings, and detailed cybersecurity recommendations for prevention and response strategies.
   
 ---
-## <b>RFID Wristbands Security Analysis</b>         [View Project](https://github.com/Amahdavi-cybersecurity/RFID-Wristbands-Security-Analysis.git)
+## <b>RFID Wristbands Security Analysis</b>       
+[View Project](https://github.com/Amahdavi-cybersecurity/RFID-Wristbands-Security-Analysis.git)
 
   - **Tools**: Research into RFID systems, privacy frameworks, and security protocols.
     
@@ -55,7 +60,8 @@
   - **Description**: Comprehensive analysis of the security and privacy implications of RFID wristbands in children's resort activities. Highlights include their benefits, potential risks, and best practices for secure implementation, focusing on compliance with COPPA, PCI DSS, and GDPR.
 
  ---
-## Active Directory and Azure AD Connect       [View Project](https://github.com/Amahdavi-cybersecurity/active-directory-azure-ad-connect.git)
+## Active Directory and Azure AD Connect      
+[View Project](https://github.com/Amahdavi-cybersecurity/active-directory-azure-ad-connect.git)
 
    - **Tools**: Windows Server 2022, Microsoft Azure AD Connect, PowerShell, Azure Portal
      
@@ -64,7 +70,8 @@
    - **Description**: Configured a hybrid identity environment to unify user access across Microsoft 365 and on-premises resources. This project demonstrates the process of creating an Active Directory forest, configuring Azure AD Connect for identity synchronization,
 
 ------
-## Linux Installation and Command-Line Training Guide   [View Project](https://github.com/Amahdavi-cybersecurity/linux-training-guide.git)
+## Linux Installation and Command-Line Training Guide  
+[View Project](https://github.com/Amahdavi-cybersecurity/linux-training-guide.git)
 
 
   - **Tools**: Ubuntu 24.04 LTS, VirtualBox, Linux Terminal
@@ -77,7 +84,8 @@ Managed files and directories with touch, mkdir, cp, mv, and rm commands, Proces
 
 ---
 
-## Demonstration of a DoS Attack    [View Project](https://github.com/Amahdavi-cybersecurity/Demonstration-of-a-DoS-Attack.git)
+## Demonstration of a DoS Attack   
+[View Project](https://github.com/Amahdavi-cybersecurity/Demonstration-of-a-DoS-Attack.git)
 
 
 - **Tools**: Kali Linux, Metasploit Framework, Windows 11 (Host)
@@ -92,7 +100,8 @@ This project demonstrates a simulated Denial of Service (DoS) attack to showcase
 
 --------
 
-## Windows 10 Installation Proof of Concept    [View Project](https://github.com/Amahdavi-cybersecurity/Windows-10-Installation-Proof-of-Concept.git)
+## Windows 10 Installation Proof of Concept    
+[View Project](https://github.com/Amahdavi-cybersecurity/Windows-10-Installation-Proof-of-Concept.git)
 
 - **Tools**: VirtualBox, Windows PowerShell, Local Group Policy Editor, Windows Defender Firewall
 
@@ -102,7 +111,8 @@ This project demonstrates a simulated Denial of Service (DoS) attack to showcase
 
 - ----
 
- ## Kali Linux Installation      [View Project](https://github.com/Amahdavi-cybersecurity/Kali-Linux-Installation-.git)
+ ## Kali Linux Installation    
+ [View Project](https://github.com/Amahdavi-cybersecurity/Kali-Linux-Installation-.git)
 
 
 - **Tools Used** Operating System: Windows 11
