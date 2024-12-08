@@ -1,4 +1,3 @@
-
 <h1 align="center">🌐 Welcome to Aryana's Cybersecurity Portfolio! 👨‍💻<h1>
 
 
@@ -12,7 +11,7 @@
 
 ---
 ## View my Resume
-[📄 Download My Resume](https://github.com/user-attachments/files/17994598/Aryana.M_Resume.2024.pdf)
+[📄 Download My Resume](https://github.com/user-attachments/files/18052804/Aryana.M_Resume.2024.pdf)
 
 
 # <h2>👨‍💻 Cybersecurity Projects:</h2> 
