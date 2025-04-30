@@ -3,10 +3,12 @@
 
 ## 👨‍🎓 Who Am I? 
 
-**Hi, I'm Aryana!**
-**I’m a passionate cybersecurity enthusiast dedicated to protecting digital ecosystems. With hands-on experience and certifications such as CompTIA Advanced Security Practitioner and AWS Cloud Practitioner, I specialize in identifying vulnerabilities, designing defenses, and analyzing evolving cyber threats.**
+**Hi, I'm Ari!**
+**A cybersecurity professional with experience supporting national security initiatives at the Department of Homeland Security. I’ve interned with TSA’s Cybersecurity Compliance & Risk Division, where I contributed to cybersecurity policy, risk management, and infrastructure protection efforts.** 
 
-**When I’m not diving deep into cybersecurity challenges, I enjoy contributing to projects, sharpening my skills, and staying updated on the latest industry trends. I thrive in roles that demand creativity, critical thinking, and a commitment to safeguarding information.**
+**I hold certifications including CompTIA CASP+, PenTest+, Security+, AWS Cloud Practitioner, and ISC2 Certified in Cybersecurity. My technical skills include network security, vulnerability assessment, and compliance with frameworks like NIST and ISO 27001.**
+
+**I’m currently pursuing two master’s degrees in cybersecurity from UMGC and Georgetown University and am passionate about using technology to strengthen cyber resilience in both public and private sectors.**
 
 
 ---
