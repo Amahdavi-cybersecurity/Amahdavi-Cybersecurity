@@ -11,15 +11,14 @@
 
 ---
 ## View my Resume
-[Aryana M_Resume (2025) (2).pdf](https://github.com/user-attachments/files/18757245/Aryana.M_Resume.2025.2.pdf)
+[View Project](https://github.com/Amahdavi-cybersecurity/pen-testing-report-template.git)
 
 
 
 # <h2>👨‍💻 Cybersecurity Projects:</h2> 
 ------
 ##    Penetration Testing Report     
-[View Project](https://github.com/Amahdavi-cybersecurity/SIEM-Setup-Guide.git)
-
+[View Project](https://github.com/Amahdavi-cybersecurity/pen-testing-report-template.git)
 
  - **Tools Used**: Kali Linux (Nmap, Nikto, Dirb, WPScan, OpenVAS, Metasploit, SET), Windows 10 VM (Sysmon, Winlogbeat).
   
