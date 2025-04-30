@@ -17,6 +17,18 @@
 
 # <h2>👨‍💻 Cybersecurity Projects:</h2> 
 ------
+##    Penetration Testing Report     
+[View Project](https://github.com/Amahdavi-cybersecurity/SIEM-Setup-Guide.git)
+
+
+ - **Tools Used**: Kali Linux (Nmap, Nikto, Dirb, WPScan, OpenVAS, Metasploit, SET), Windows 10 VM (Sysmon, Winlogbeat).
+  
+- **Skills Demonstrated**: Test planning & documentation, reconnaissance & enumeration, vulnerability analysis & exploitation, CVSS-rated reporting & evidence appendices, cleanup & post-test remediation.
+  
+- **Description**: A dual-format template (Word & Markdown) for planning, executing, and reporting penetration tests in line with NIST SP 800-115. Includes sections for rules of engagement, methodology, findings, evidence, recommendations, and appendices—ready for both client deliverables and code-centric workflows.
+
+
+------
 ##    Security Information and Event Management (SIEM) Setup Guide     
 [View Project](https://github.com/Amahdavi-cybersecurity/SIEM-Setup-Guide.git)
 
