@@ -1,4 +1,4 @@
-<h1 align="center">🌐 Welcome to Aryana's Cybersecurity Portfolio! 👨‍💻<h1>
+<h1 align="center">🌐 Welcome to Ari's Cybersecurity Portfolio! 👨‍💻<h1>
 
 
 ## 👨‍🎓 Who Am I? 
