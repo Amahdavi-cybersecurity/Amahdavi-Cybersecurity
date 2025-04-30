@@ -13,7 +13,7 @@
 
 ---
 ## View my Resume
-[View Project](https://github.com/Amahdavi-cybersecurity/pen-testing-report-template.git)
+[View Resume] 
 
 
 
